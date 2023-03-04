@@ -1,0 +1,37 @@
+.heading h3{
+    display: inline;
+    }
+    
+    .heading button{
+        float: right;
+        border: 1px solid white;
+    }
+    
+
+    
+    #start,#status{
+        font-size: 22px;
+    }
+    
+    .heading{
+        width: 100%;
+        text-align: left;
+    }
+    
+    .modal-dialog{
+        width: 90%;
+    }
+canvas{
+position: inherit;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: cyan;
+    line-height: 3;
+}
+h4{
+    display: inline;
+}
